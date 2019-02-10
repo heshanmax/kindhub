@@ -1,21 +1,56 @@
 # kindhubsys
-KindHub Elementry School Student Registration System
+KindHub Elementry School 
 
 
-System is based on Laravel framework
+Student Registration System
 
+SRS is a simple web application built under the laravel framework. It is used to register students, 
 
+Requirements
 
-Make sure you have a composer installed on your machine. Don't forget to create a new database before doing these steps.
+PHP 7+ and Composer are required.
+Installation
 
-1. Download the project
+After cloning the repository, Run:
 
-2. Extract to your new directory project.
+    Composer update
 
-3. Copy .env.example to be .env
+    Copy .env.example to a new file .env
 
-4. Open .env file, and change the database configuration
+    Edit database configuration in .env, change
 
-5. import the data.sql to new server
+    DB_DATABASE=
 
-6. run the project
+    DB_USERNAME=
+
+    DB_PASSWORD=
+
+    Run php artisan migrate
+
+    Run php artisan Rms:install
+
+    Run npm install
+
+Usage
+
+    Run php artisan serve to run on the default port 8000 or php artisan serve --port=*** to run on your preferred port.
+
+    Run npm run dev to run the vue.js
+
+    Next,you login as default user with credentials in the config/default.php file
+
+    Identification no : “130202003”
+
+    Password: “secret”
+
+    After login, create students, departments, courses, course registration for students. Your management Begins!
+
+Contributing
+
+All contributions are welcomed and can be made in form of pull requests
+Security Vulnerabilities
+
+If you discover a security vulnerability within RMS, please send an e-mail to Fadayini Timothy at timothy33.tf@gmail.com
+License
+
+RMS is open-sourced software licensed under the MIT license.
