@@ -27,13 +27,7 @@ After cloning the repository
 
     Run php artisan migrate
 
- 
-Contributing
 
-All contributions are welcomed and can be made in form of pull requests
-Security Vulnerabilities
 
-If you discover a security vulnerability within RMS, please send an e-mail to Fadayini Timothy at timothy33.tf@gmail.com
-License
 
-RMS is open-sourced software licensed under the MIT license.
+SRS is open-sourced software licensed under the MIT license.
