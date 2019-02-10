@@ -34,6 +34,9 @@
             <div class="col-lg-8">
                 <div class="card">
                     <div class="card-block">
+                        <table class="table color-table table-box">
+                            <a href="{{route('students.create')}}" class="btn btn-danger btn-lg">Enter New Student</a>
+                        </table>
                         <div class="table-responsive">
                             <table class="table color-table inverse-table">
                                 <thead>
