@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6bae27d1-54ff-43a7-89e0-92bb82d84670" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/User.php" afterPath="$PROJECT_DIR$/app/User.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/factories/UserFactory.php" afterPath="$PROJECT_DIR$/database/factories/UserFactory.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/students/show.blade.php" afterPath="$PROJECT_DIR$/resources/views/students/show.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tests/Feature/StudentTest.php" afterPath="$PROJECT_DIR$/tests/Feature/StudentTest.php" />
-    </list>
+    <list default="true" id="6bae27d1-54ff-43a7-89e0-92bb82d84670" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -573,12 +567,12 @@
       <workItem from="1549704926166" duration="1360000" />
       <workItem from="1549707973642" duration="18808000" />
       <workItem from="1549769526403" duration="8054000" />
-      <workItem from="1549799214812" duration="7520000" />
+      <workItem from="1549799214812" duration="7568000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35742000" />
+    <option name="totallyTimeSpent" value="35790000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="89" y="22" width="1716" height="986" extended-state="0" />
