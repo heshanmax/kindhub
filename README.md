@@ -2,16 +2,16 @@
 KindHub Elementry School 
 
 
-Student Registration System
+#Student Registration System
 
 SRS is a simple web application built under the laravel framework. It is used to register students, 
 
-Requirements
+#Requirements
 
 PHP 7+ and Composer are required.
 Installation
 
-After cloning the repository
+#After cloning the repository
 
     Composer update
 
